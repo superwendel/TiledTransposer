@@ -1,4 +1,4 @@
-This is the same version published on the Unity Asset Store. If you would like support or have a feature request, please purchase there:
+This is the same version published on the Unity Asset Store. If you would like support, to support, have a feature request, or wish to use it as a package please purchase there:
 https://assetstore.unity.com/packages/tools/sprite-management/tiled-transposer-254232
 
 Tiled Transposer is a tool that allows you to easily load Tiled TMX tilemap and TSX tileset files into Unity's Tilemap system. If you're new to Tiled or Unity's Tilemap system, you may want to check out these resources first:
